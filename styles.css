@@ -90,6 +90,7 @@ h4 {
   flex: 1;
   /* border:#77defb 2px solid; */
   /* border-top:#dee9ec 1px solid; */
+  align-self: stretch;
   align-items: center;
   flex-direction: column;
   justify-content: space-between;
